@@ -1,8 +1,9 @@
 export const profile = {
   name: "Michael John Gil Cruz",
   role: "Senior Digital Growth & Optimization Specialist",
-  focus: "Conversion Rate Optimization · Digital Analytics · Web Strategy · Marketing Automation",
-  location: "San Mateo, Rizal, Philippines",
+  focus:
+    "Conversion Rate Optimization · Digital Analytics · Web Strategy · Marketing Automation",
+  location: "Philippines",
   email: "CruzMichaelJG@gmail.com",
   phone: "(63+) 966-914-7007",
   summary:
@@ -94,27 +95,70 @@ export const achievements = [
 export const skillGroups = [
   {
     label: "Web Development",
-    items: ["HTML5", "CSS3", "JavaScript", "React.js", "Next.js", "WordPress", "Tailwind CSS", "ShadCN UI", "TanStack Query", "Zustand"],
+    items: [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React.js",
+      "Next.js",
+      "WordPress",
+      "Tailwind CSS",
+      "ShadCN UI",
+      "TanStack Query",
+      "Zustand",
+    ],
   },
   {
     label: "Conversion Optimization",
-    items: ["CRO", "A/B Testing", "Landing Page Optimization", "Customer Journey Analysis", "UX Optimization", "Personalization"],
+    items: [
+      "CRO",
+      "A/B Testing",
+      "Landing Page Optimization",
+      "Customer Journey Analysis",
+      "UX Optimization",
+      "Personalization",
+    ],
   },
   {
     label: "Analytics & Tracking",
-    items: ["Google Analytics 4", "Google Tag Manager", "Search Console", "Performance Reporting", "Conversion Tracking"],
+    items: [
+      "Google Analytics 4",
+      "Google Tag Manager",
+      "Search Console",
+      "Performance Reporting",
+      "Conversion Tracking",
+    ],
   },
   {
     label: "SEO & Digital Marketing",
-    items: ["Technical SEO", "On-Page SEO", "Off-Page SEO", "Keyword Research", "Google Ads", "LinkedIn Ads", "SEMrush", "Ahrefs"],
+    items: [
+      "Technical SEO",
+      "On-Page SEO",
+      "Off-Page SEO",
+      "Keyword Research",
+      "Google Ads",
+      "LinkedIn Ads",
+      "SEMrush",
+      "Ahrefs",
+    ],
   },
   {
     label: "CRM & Automation",
-    items: ["GoHighLevel", "Lead Management", "Sales Pipelines", "Workflow Automation", "Email & SMS Marketing"],
+    items: [
+      "GoHighLevel",
+      "Lead Management",
+      "Sales Pipelines",
+      "Workflow Automation",
+      "Email & SMS Marketing",
+    ],
   },
   {
     label: "Languages",
-    items: ["English — Fluent", "Filipino — Fluent", "Japanese — Conversational"],
+    items: [
+      "English — Fluent",
+      "Filipino — Fluent",
+      "Japanese — Conversational",
+    ],
   },
 ];
 
